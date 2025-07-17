@@ -6,4 +6,4 @@ export const terbit = '2024-12-14T00:01:03Z';
 export const google = '-0dPflc5bwLKdPoaeJIHLLEEedcAdIu8MnjLmCZQgF0';
 export const yandex = '1c8018fcfcd2802b'
 
-export const index = '7f3f7bff-00cf-4ef0-a378-647e9937390c';
+export const index = '3c4b087b-277b-488c-b1f0-78436f9fbf5c';
